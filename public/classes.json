@@ -1,0 +1,62 @@
+[
+    {
+    "instructorName": "John Doe" ,
+    "instructorImage": "https://images.unsplash.com/photo-1506794778202-cad84cf45f1d?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=387&q=80",
+    "email": "john.doe@example.com",
+    "className": "Wildlife Photography",
+    "classImage": "https://images.unsplash.com/photo-1620693778087-2bced33a4a06?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1032&q=80",
+    "availableSeats": 10,
+    "price": 70
+
+}, 
+    {
+    "instructorName": "John Doe" ,
+    "instructorImage": "https://images.unsplash.com/photo-1552374196-c4e7ffc6e126?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=387&q=80",
+    "email": "john.doe@example.com",
+    "className": "Landscape Photography",
+    "classImage": "https://images.unsplash.com/photo-1492691527719-9d1e07e534b4?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=871&q=80",
+    "availableSeats": 12,
+    "price": 70
+
+}, 
+    {
+    "instructorName": "John Doe" ,
+    "instructorImage": "https://images.unsplash.com/photo-1528892952291-009c663ce843?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=344&q=80",
+    "email": "john.doe@example.com",
+    "className": "Portrait Photography",
+    "classImage": "https://images.unsplash.com/photo-1558185348-c1e6420f12d2?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=870&q=80",
+    "availableSeats": 7,
+    "price": 50
+
+}, 
+    {
+    "instructorName": "John Doe" ,
+    "instructorImage": "https://images.unsplash.com/photo-1596075780750-81249df16d19?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=387&q=80",
+    "email": "john.doe@example.com",
+    "className": "Macro Photography",
+    "classImage": "https://images.unsplash.com/photo-1565004569929-4f400c11e9ef?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=909&q=80",
+    "availableSeats": 5,
+    "price": 50
+
+}, 
+    {
+    "instructorName": "John Doe" ,
+    "instructorImage": "https://images.unsplash.com/photo-1560250097-0b93528c311a?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=387&q=80",
+    "email": "john.doe@example.com",
+    "className": "Product Photography",
+    "classImage": "https://images.unsplash.com/photo-1471341971476-ae15ff5dd4ea?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1032&q=80",
+    "availableSeats": 8,
+    "price": 50
+
+},
+    {
+    "instructorName": "John Doe" ,
+    "instructorImage": "https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTJ8fHBvcnRyYWl0fGVufDB8fDB8fHww&auto=format&fit=crop&w=700&q=60",
+    "email": "john.doe@example.com",
+    "className": "Videography",
+    "classImage": "https://images.unsplash.com/photo-1549882391-b7fb5ac67fcc?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=870&q=80",
+    "availableSeats": 3,
+    "price": 50
+
+}
+]
